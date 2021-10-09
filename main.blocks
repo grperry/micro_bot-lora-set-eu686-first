@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Z{Q%=H_I=_MJoj;U4*;)" x="0" y="0"><statement name="HANDLER"><block type="IotLoRaNode_SetRegion" id="~,z0d.^][iuvz#^a%IlX"><field name="regionVal">region.EU868</field></block></statement></block></xml>
