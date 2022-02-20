@@ -19,7 +19,7 @@ basic.forever(function () {
     )
     IotLoRaNode.LightValue(input.lightLevel(), Channels.Five)
     IotLoRaNode.loraTransmitPayload()
-    for (let index = 0; index < 2; index++) {
+    for (let index = 0; index < 36; index++) {
         basic.pause(5000)
     }
     basic.showIcon(IconNames.Heart)
